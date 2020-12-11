@@ -9,7 +9,7 @@ jobs:
   CodeQL-Build:
 
     strategy:
-      fail-fast: false
+      fail-fast: true
 
     # CodeQL runs on ubuntu-latest and windows-latest
     runs-on: ubuntu-latest
