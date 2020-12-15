@@ -1,1 +1,1 @@
-These are Articles and short notes on C programming.
+These are Articles and important short notes on C programming.
